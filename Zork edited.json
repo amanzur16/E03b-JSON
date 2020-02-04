@@ -881,9 +881,12 @@
 		"name": "Mirror Room",
 		"desc": "",
 		"exits": [{
-			"exit": "NORTH",
-			"target": "MIRR1"
-		}, {
+			"exit": "WEST",
+            "target": "PASS4"
+        }, {
+            "exit": "NORTH",
+            "target": "MIRR1",
+		
 			"exit": "NORTH",
 			"target": "CRAW3"
 		}, {
